@@ -4,4 +4,6 @@
 
 - [x] connect to `dbus`
 - [x] get connection name
-- [ ] send message
+- [x] send message
+- [ ] send right message:)
+- [ ] receive message
